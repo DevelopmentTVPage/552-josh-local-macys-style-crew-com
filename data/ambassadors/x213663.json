@@ -1,0 +1,21 @@
+{
+    "id": "213663",
+    "first_name": "Morgan",
+    "last_name": "Chandler",
+    "data": {
+        "profilePhoto": null,
+        "job_title": "Cosmetic Sales Manager"
+    },
+    "last_login_timestamp": null,
+    "created_timestamp": null,
+    "modified_timestamp": "2018-10-12 21:06:45",
+    "login_id": "1759121",
+    "user_id": "213663",
+    "role_id": "2",
+    "status": "2",
+    "fullName": "Morgan Chandler",
+    "profile_picture": null,
+    "titleTextEncoded": "morgan-chandler",
+    "title": "Morgan Chandler",
+    "videos_count": "0"
+}
