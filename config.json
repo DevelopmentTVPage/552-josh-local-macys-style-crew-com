@@ -1,0 +1,16 @@
+{
+    "title": "Macys Test Hub",
+    "baseURL": "https:\/\/josh-local-macys-style-crew.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "defaultContentLanguage": "none",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759121",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "josh-local-macys-style-crew.com"
+    }
+}
