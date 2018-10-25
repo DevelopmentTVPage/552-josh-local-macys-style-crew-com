@@ -1,0 +1,101 @@
+{
+    "title": "STYLE CREW FALL FASHION 1",
+    "description": "",
+    "referenceId": "88c471d98441a04b927b87c3bbbbd999",
+    "date_created": "1540265576",
+    "date_modified": "1540265634",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": null,
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213412",
+    "product_category": null,
+    "id": "181017031",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "style-crew-fall-fashion-1",
+    "category": null,
+    "tvp_profiles": null,
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "SHORT",
+    "duration": "63",
+    "settings": null,
+    "asset": {
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ],
+        "videoMeta": {
+            "duration": "63",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "63",
+        "prettyDuration": "00:01:03",
+        "automaticThumbnailsPattern": "1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/181017031\/thumbnail\/image-thumbnail-256-87b229fd053be0943cb92eaef2a30c41.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/181017031\/thumbnail\/image-thumbnail-480-6e43ce961a1cb1909c6e6355eecb575b.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/181017031\/thumbnail\/image-thumbnail-640-ccf3aa9a1f5acbba80754fddb2e41157.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/181017031\/thumbnail\/image-thumbnail-1280-1621899a4772549d499c54d06eab9341.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/181017031\/thumbnail\/image-thumbnail-1920-e9091bce0f64739878803e7c14992a83.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/181017031\/a2f1b\/thumb-88c471d98441a04b927b87c3bbbbd999-00005.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/181017031\/thumbnail\/image-thumbnail-640-ccf3aa9a1f5acbba80754fddb2e41157.jpg",
+        "type": "mp4"
+    },
+    "transcripts": null,
+    "metrics_statistics": null,
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}

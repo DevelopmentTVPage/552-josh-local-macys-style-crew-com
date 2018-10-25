@@ -1,0 +1,118 @@
+{
+    "title": "Challenge- Styling Menswear",
+    "description": "Hi ladies! I cannot wait to share today\u2019s video with you all! Awhile back you challenged me to go shopping in the men\u2019s section at Macy\u2019s and see what items I could incorporate into my wardrobe. Well today that challenge is finally going live and I\u2019m bringing you three different looks I styled with some of my favorite, everyday womenswear pieces. Hope you enjoy and learn some new creative ways to style menswear. This one\u2019s for you! \n\nAll of the Product Web IDs: (searchable on Macys.com)\n5712904- Calvin Klein Men\u2019s Dress Shirt\n7274303- G Star Men\u2019s Tapered Khaki Pants\n6298116- G Star RAW Men\u2019s Earth Camo-Print Pants",
+    "referenceId": "05b9404192a1c492808554fc04462e60",
+    "date_created": "1538191168",
+    "date_modified": "1538410456",
+    "tags": "",
+    "sourceId": "6",
+    "status": "approved",
+    "visibility": "1",
+    "VV_VI": "6",
+    "engagement_score": null,
+    "conversion_score": null,
+    "CVV_VI": null,
+    "video_type": null,
+    "user_id": "213313",
+    "product_category": "women",
+    "id": "178523225",
+    "loginId": "1759121",
+    "entityType": "1",
+    "titleTextEncoded": "challenge-styling-menswear",
+    "category": null,
+    "tvp_profiles": [],
+    "tvp_profiles_manual": null,
+    "tvp_profiles_maxscore": null,
+    "VIDEO_LENGTH": "LONG",
+    "duration": "667",
+    "settings": null,
+    "asset": {
+        "videoMeta": {
+            "duration": "667",
+            "width": 1920,
+            "height": 1080
+        },
+        "mediaDuration": "667",
+        "prettyDuration": "00:11:07",
+        "automaticThumbnailsPattern": "1759121\/178523225\/dd116\/thumb-05b9404192a1c492808554fc04462e60-{count}",
+        "selectableThumbnails": [
+            "\/\/v.tvpage.com\/1759121\/178523225\/user-images\/image-3839-72691283c9cdbc835f0374803d3239a6.jpg",
+            "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/thumb-05b9404192a1c492808554fc04462e60-00006.jpg",
+            "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/thumb-05b9404192a1c492808554fc04462e60-00005.jpg",
+            "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/thumb-05b9404192a1c492808554fc04462e60-00004.jpg",
+            "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/thumb-05b9404192a1c492808554fc04462e60-00003.jpg",
+            "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/thumb-05b9404192a1c492808554fc04462e60-00002.jpg",
+            "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/thumb-05b9404192a1c492808554fc04462e60-00001.jpg"
+        ],
+        "thumbnails": {
+            "256": "\/\/v.tvpage.com\/1759121\/178523225\/thumbnail\/image-thumbnail-256-c2039d89b02b93808591ec1eafc80e10.jpg",
+            "480": "\/\/v.tvpage.com\/1759121\/178523225\/thumbnail\/image-thumbnail-480-f178f6b0b8d7bcec1780badd08a1db1c.jpg",
+            "640": "\/\/v.tvpage.com\/1759121\/178523225\/thumbnail\/image-thumbnail-640-d0dbe9099cb7196b54ad1f487e1fa54d.jpg",
+            "1280": "\/\/v.tvpage.com\/1759121\/178523225\/thumbnail\/image-thumbnail-1280-b7182ea3f12f0b7c88a59c427d2996a3.jpg",
+            "1920": "\/\/v.tvpage.com\/1759121\/178523225\/thumbnail\/image-thumbnail-1920-7ba3e5d9450e150e14cf424a05f99c25.jpg"
+        },
+        "selectedThumbnailUrl": "\/\/v.tvpage.com\/1759121\/178523225\/user-images\/image-3839-72691283c9cdbc835f0374803d3239a6.jpg",
+        "thumbnailUrl": "\/\/v.tvpage.com\/1759121\/178523225\/thumbnail\/image-thumbnail-640-d0dbe9099cb7196b54ad1f487e1fa54d.jpg",
+        "type": "mp4",
+        "assetId": "178523225",
+        "assetTitle": "Challenge- Styling Menswear",
+        "assetTitleTextEncoded": "challenge-styling-menswear",
+        "loginId": "1759121",
+        "analyticsObj": {
+            "pg": 0,
+            "vd": "178523225",
+            "li": "1759121"
+        },
+        "uploadAsset": false,
+        "quality": "",
+        "sources": [
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/1080p_media.mp4",
+                "quality": "1080p",
+                "mime": "video\/mp4",
+                "width": 1920,
+                "height": 1080
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/720p_media.mp4",
+                "quality": "720p",
+                "mime": "video\/mp4",
+                "width": 1280,
+                "height": 720
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/480p_media.mp4",
+                "quality": "480p",
+                "mime": "video\/mp4",
+                "width": 854,
+                "height": 480,
+                "tvpdefault": true
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/360p_media.mp4",
+                "quality": "360p",
+                "mime": "video\/mp4",
+                "width": 640,
+                "height": 360
+            },
+            {
+                "file": "\/\/v.tvpage.com\/1759121\/178523225\/dd116\/240p_media.mp4",
+                "quality": "240p",
+                "mime": "video\/mp4",
+                "width": 320,
+                "height": 180
+            }
+        ]
+    },
+    "transcripts": null,
+    "metrics_statistics": {
+        "VV_VI": {
+            "lastUpdatedDate": "2018-10-11"
+        }
+    },
+    "tvp_enhanced_search": null,
+    "tvp_enhanced_anti": null,
+    "tvp_enhanced_brand": null,
+    "tvp_enhanced_video_images": null,
+    "tvp_enhanced_transcript": null
+}
